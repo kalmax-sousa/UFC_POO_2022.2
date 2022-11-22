@@ -1,3 +1,5 @@
+import java.util.Collection;
+
 interface IPaciente {
     public String getId();
     public void addMedico(IMedico medico);
