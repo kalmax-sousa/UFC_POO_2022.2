@@ -1,0 +1,4 @@
+class InvalidPairException extends Exception {
+
+
+}
