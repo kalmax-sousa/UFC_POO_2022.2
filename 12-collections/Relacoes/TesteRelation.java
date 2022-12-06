@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.util.Set;
 
-public class TestRelation {
+public class TesteRelation {
 
     public static void main(String[] args) {
         Relation r = null;
